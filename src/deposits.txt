@@ -1,0 +1,4 @@
+Clover Bank,Flexible Deposit,1100.0,3.0,6,no
+Clover Bank,Standard Deposit,1000.0,5.0,12,no,yes
+Super bank,Junior Deposit,500.0,2.0,24,no,no
+Super bank,Special Deposit,2000.0,8.0,26,no,yes
